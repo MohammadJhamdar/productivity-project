@@ -1,0 +1,6 @@
+Admin account:
+	username:admin_user
+	password:adminpass
+Doctor acount:
+	username:ali_jaber
+	password:ali@jaber
